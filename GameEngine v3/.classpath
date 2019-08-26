@@ -10,5 +10,13 @@
 	<classpathentry kind="lib" path="G:/opengl/jar/lwjgl_util.jar"/>
 	<classpathentry kind="lib" path="G:/opengl/jar/slick-util.jar"/>
 	<classpathentry kind="lib" path="G:/opengl/jar/PNGDecoder.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/BlackKnight/git/Java-Game-Engine/Dependencies/lwjgl.jar">
+		<attributes>
+			<attribute name="org.eclipse.jdt.launching.CLASSPATH_ATTR_LIBRARY_PATH_ENTRY" value="C:/Users/BlackKnight/git/Java-Game-Engine/Dependencies/windows"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry exported="true" kind="lib" path="C:/Users/BlackKnight/git/Java-Game-Engine/Dependencies/lwjgl_util.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/BlackKnight/git/Java-Game-Engine/Dependencies/pngdecoder-1.0.jar"/>
+	<classpathentry exported="true" kind="lib" path="C:/Users/BlackKnight/git/Java-Game-Engine/Dependencies/slick-util.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

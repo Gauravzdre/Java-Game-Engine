@@ -13,9 +13,7 @@ public class MainGameLoop {
 	
 		Gui.createDisplay();
 		Drawing draw =  new Drawing();
-		draw.draw();
-		
-		
+		draw.draw();	
 		
 		while(!Display.isCloseRequested()){
 					
