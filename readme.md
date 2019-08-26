@@ -10,4 +10,5 @@ Lighting.
 
 Input.
 
+![Terrain with multisampling and basic terrain collision](ScreenShots/javaengine-1.png)
 
